@@ -8,7 +8,7 @@
 
 ## How to run?
 1. Clone this project
-2. Give this commant `npm I`
+2. Give this command `npm I`
 3. Add env file to your project root
 4. Now hit this command to execute:
    ```npm test```
